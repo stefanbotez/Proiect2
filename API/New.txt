@@ -1,0 +1,2 @@
+Am adaugat in UnitOfWork metode ce modifica asocierile dintre doua entitati.
+Acestea sunt AddTagToMedia si RemoveTagFromMedia.
